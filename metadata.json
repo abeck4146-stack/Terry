@@ -1,0 +1,6 @@
+{
+  "name": "VitalSphere",
+  "description": "Your ultimate wellness and family health companion with spatial design, AI health insights, and medication trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
